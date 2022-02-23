@@ -57,9 +57,9 @@ namespace dev_rus
         static IEnumerable<string> Suits()
         {
             yield return "трефы";
-            yield return " бубны";
+            yield return "бубны";
             yield return "червы";
-            yield return " пики";
+            yield return "пики";
         }
 
         static IEnumerable<string> Ranks()
